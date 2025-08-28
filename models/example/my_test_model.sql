@@ -1,0 +1,1 @@
+SELECT 'Hello from VS CODE' as messsage;

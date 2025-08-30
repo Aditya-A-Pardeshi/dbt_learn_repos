@@ -7,7 +7,14 @@
     Try changing "table" to "view" below
 */
 
-{{ config(materialized='table') }}
+{{ config(
+    materialized = 'table',
+    transient = false
+) }}
+
+
+{{ config(alias='final_orders') }}
+
 
 with source_data as (
 

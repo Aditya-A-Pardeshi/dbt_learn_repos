@@ -1,1 +1,1 @@
-SELECT 'Hello from VS CODE' as messsage;
+SELECT 'Hello from VS CODE' as messsage

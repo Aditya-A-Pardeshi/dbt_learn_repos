@@ -1,1 +1,1 @@
-SELECT 'Hello from GIT HUB' as messsage;
+SELECT 'Hello from GIT HUB' as messsage
